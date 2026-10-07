@@ -8,11 +8,11 @@ All five computers have 32 GB of RAM and are used for different parts of the lab
 
 | Computer | Role             | Hostname      |
 | -------- | ---------------- | ------------- |
-| 01       | Red Team         | `redteam-01`  |
-| 02       | Blue Team        | `blueteam-01` |
+| 01       | Red Team         | `itredteam`  |
+| 02       | Blue Team        | `itblueteam` |
 | 03       | Proxmox          | `pve-01`      |
 | 04       | Proxmox          | `pve-02`      |
-| 05       | Malware Analysis | `malware-01`  |
+| 05       | Malware Analysis | `itmalware`  |
 
 ## Network
 
@@ -39,7 +39,7 @@ The malware analysis computer is kept separate from this network.
 
 ## Red Team
 
-**Hostname:** `redteam-01`
+**Hostname:** `itredteam`
 
 The Red Team computer is used for offensive security testing against systems inside the lab.
 
@@ -57,7 +57,7 @@ Common tools include Nmap, Wireshark, Burp Suite, Caido, Metasploit, Python, and
 
 ## Blue Team
 
-**Hostname:** `blueteam-01`
+**Hostname:** `itblueteam`
 
 The Blue Team computer is used for defensive security work.
 
@@ -109,7 +109,7 @@ The two Proxmox systems allow machines to be created, tested, reverted, and remo
 
 ## Malware Analysis
 
-**Hostname:** `malware-01`
+**Hostname:** `itmalware`
 
 The fifth computer is dedicated to malware analysis and reverse engineering.
 
