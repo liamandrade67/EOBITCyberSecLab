@@ -1,2 +1,2 @@
 # EOBITCyberSecLab
-Documentation and infrastruct.ure for a five-node cybersecurity training lab at EOB.
+Documentation and infrastructure for a five-node cybersecurity training lab at EOB.
