@@ -79,11 +79,17 @@ Two computers run Proxmox and provide most of the lab's virtual infrastructure.
 
 ### `pve-01`
 Hostname (FQDN): cyssec4.lab.internal
+
 Subnet Mask: 255.255.255.0
+
 VLAN: 10.10.10.(100-199)
+
 Gateway: 10.10.10.1
+
 IP Addr: 10.10.10.100
+
 Switch Port: 4
+
 
 Used for general virtual machines and services.
 
@@ -99,10 +105,15 @@ Possible workloads:
 
 ### `pve-02`
 Hostname (FQDN) is: cyssec5.lab.internal
+
 Subnet Mask: 255.255.255.0
+
 VLAN: 10.10.10.(100-199)
+
 Gateway: 10.10.10.1
+
 IP Addr: 10.10.10.101
+
 Switch Port: 5
 
 Used for additional infrastructure and security services.
