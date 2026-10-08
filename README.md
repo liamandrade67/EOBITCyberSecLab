@@ -104,7 +104,7 @@ Possible workloads:
 * CTF targets
 
 ### `pve-02`
-Hostname (FQDN) is: cyssec5.lab.internal
+Hostname (FQDN): cyssec5.lab.internal
 
 Subnet Mask: 255.255.255.0
 
